@@ -1,13 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Introduction
+
+I used Next.js and Tailwind for making this assignment. 
 Make sure that you can start this beautifull moviepage with installing latest dependecies:
 
 ```bash
 npm install
 ```
-End of my own comments here
+## End of my own comments(aka introduction) here 
 
+## Getting Started
 First, run the development server:
 
 ```bash
